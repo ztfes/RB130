@@ -1,5 +1,5 @@
 def none?(array)
-  array.each {|num| return false if !yield(num)}
+  array.each {|num| return false if yield(num)}
   true
 end
 

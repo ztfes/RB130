@@ -5,3 +5,5 @@ class Car
     @wheels = 4
   end
 end
+
+puts "hello"

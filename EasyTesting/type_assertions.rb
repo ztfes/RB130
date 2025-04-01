@@ -1,0 +1,1 @@
+assert_instance_of(true, value.is_a?(Numeric))
